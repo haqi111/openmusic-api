@@ -19,8 +19,6 @@
 - Error handling
 - Authentication & Authorization
 - Manage playlists (private)
-- Playlist collaborations
-- Playlist activities history
 - Export playlist songs to email
 - Upload album cover image
 - Like and dislike albums

@@ -34,7 +34,7 @@
 - [RabbitMQ v3.9+](https://www.rabbitmq.com/)
 - [Redis](https://redis.io/) or [Memurai](https://www.memurai.com/)
 - [Postman](https://www.postman.com/) (for testing)
-- [openmusic-qconsumer](https://github.com/haqi111/openmusic-consumer) (to enable playlists export feature)
+- [openmusic-qconsumer](https://github.com/haqi111/openmusic-api-consumer) (to enable playlists export feature)
 
 ## Installation
 
